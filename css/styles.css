@@ -1,0 +1,153 @@
+body{
+    color:#40514E;
+    margin:0;
+    font-family: 'Merriweather', serif;
+    background:#E3FDFD;
+}
+
+h1{
+    font-family: 'Merriweather', serif;
+}
+h2{
+    font-family: 'Merriweather', serif;
+}
+
+h3{
+    font-family: 'Merriweather', serif;
+    margin:10px 0 0 0;
+}
+h4{
+    font-family: 'Merriweather', serif;
+    margin:10px 0 0 0 ;
+    color:#3F72AF;
+}
+
+span{
+    font-family: 'Merriweather', serif;
+    margin:0 0 0 10px;
+    color:#3F72AF;
+}
+
+P{
+   font-family: 'Montserrat', sans-serif;
+
+}
+
+
+
+hr{
+    border:dotted #11999E 6px;
+    border-bottom:none;
+    width: 4%;
+    margin: 100px auto;
+
+}
+ul {
+  line-height:2;
+}
+.profile-picture{
+    float:left;
+    width:200px;
+    height:200px;
+    margin-right:20px;
+}
+
+
+
+.intro{
+    padding-top:50px;
+}
+
+.skill-logo{
+    /*float:left;*/
+    width:80px;
+    height:80px;
+    margin:0;
+}
+.skills{
+    position:relative;
+    height:700px;
+}
+.skill1{
+    margin:20px;
+    line-height:2;
+    position:absolute;
+    left:0px;
+    top:50px;
+}
+.skill2{
+    margin:20px;
+    line-height:2;
+    position:absolute;
+    left:0px;
+    top:280px;
+}
+.skill3{
+    margin:20px;
+    line-height:2;
+    position:absolute;
+    left:0px;
+    top:510px;
+}
+
+.skill4{
+    margin:20px;
+    line-height:2;
+    position:absolute;
+    left:500px;
+    top:50px;
+}
+.skill5{
+    margin:20px;
+    line-height:2;
+    position:absolute;
+    left:500px;
+    top:280px;
+}
+.skill6{
+    margin:20px;
+    line-height:2;
+    position:absolute;
+    left:500px;
+    top:510px;
+}
+.skill7{
+    margin:20px;
+    line-height:2;
+    position:absolute;
+    left:1000px;
+    top:50px;
+}
+.skill8{
+    margin:20px;
+    line-height:2;
+    position:absolute;
+    left:1000px;
+    top:280px;
+}
+.h3-skill{
+    margin:0;
+}
+.CP{
+    margin: 0 0 20px 0;
+}
+
+.contribution{
+    margin: 20px 0 0 0;
+}
+.accomplishment{
+    margin-top:50px;
+}
+
+.h3-work{
+    padding-top:20px;
+}
+
+.button{
+    color:#3282B8;
+}
+
+.button:hover {
+  color: #EA907A;
+}
+
